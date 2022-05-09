@@ -1,22 +1,22 @@
 {
   "code": 200,
   "message": "success",
-  "desc:": "consulte_企业咨询",
+  "desc:": "consulte_企业资讯",
   "data": [
     {
       "id": 1,
       "pic": "",
-      "date": "2022/01/28 09:36",
-      "title": "鉴行理想，智在远方丨鉴智机器人2021年大事记",
-      "desc": "前路已在脚下，拥抱未来出发。",
-      "content": "News:\n</br>北京鉴智机器人科技有限公司（PhiGent Robotics，以下简称“鉴智机器人”）日前宣布与纵目科技（上海）股份有限公司（简称“纵目科技”）达成战略合作。\n</br><br/>双方将基于各自的领先技术与优势资源，在汽车智能化技术与产品领域推动深层合作、技术研发，实现共赢发展。同时，双方将携手产业链合作伙伴，共同开发面向高级辅助驾驶（ADAS）和高级别自动驾驶的量产级解决方案，加速整车智能化变革进程。\n纵目科技是中国领先的自动驾驶和高级驾驶辅助系统（ADAS）产品及技术提供商，一直致力于最终产品的大规模量产落地，提供覆盖算法、传感器、系统设计到最终量产的全栈式产业链。纵目科技作为最早进入自动驾驶领域的引领者，始终从技术真正落地为出发点，成为了国内率先获得整车厂L4级别量产项目定点合同的自动驾驶企业之一，并与一汽红旗、长安汽车、东风岚图等多家国内主流主机厂商建立了量产合作关系。\n</br><br/> 鉴智机器人以“基于软硬件协同优化，构建自动驾驶与机器人的3D智能计算 ”为切入点，专注于下一代自动驾驶技术与产品研发。鉴智机器人成立于2021年8月，2个月内获得Atypical、五源资本、金沙江创投等顶级风投机构与自动驾驶芯片领域的头部玩家地平线的数千万美元融资，并已建立起覆盖算法、规控、算力、软件、硬件的百余人全栈团队。核心团队成员均来自世界各大顶尖AI算法、AI芯片与自动驾驶公司，聚集了国内最早一批开展人工智能算法与AI芯片研发及自动驾驶产品落地的专家。鉴智机器人结合自身完整的算法、规控、算力、软件、硬件等整合优化能力，向Tier 1和OEM提供以视觉前融合3D理解为核心的高级别AD/ADAS解决方案。\n</br><br/>本次战略合作协议的签署，奠定了鉴智机器人与纵目科技未来长期合作的基础，双方将实现技术共研、优势互补、资源共享，共同构建加深技术壁垒，携手推进汽车智能化的技术革新与商业化落地。"
+      "date": " 2022-04-19 22:07",
+      "title": "喜讯！AMD-Xilinx全球自适应计算挑战赛二等奖：鉴智机器人双目视觉雷达方案",
+      "desc": "鉴智机器人凭借自主研发的PhiGent Heimdallr双目视觉雷达方案，从全球1600支参赛队伍脱颖而出，获得边缘计算赛道（Edge Computing）二等奖的成绩。",
+      "content": "AMD-Xilinx自适应计算挑战赛：业界最大规模的FPGA设计竞赛<br>AMD-Xilinx自适应计算挑战赛由FPGA发明者AMD-Xilinx主办，由全球知名的硬件学习、编程与构建开发者社区Hackster.io承办，核心目标是鼓励开发者运用赛灵思的自适应计算平台，并使用Vitis、Vitis AI和Vivado ML进行设计，解决现实世界的问题。<br>作为业界参与范围最广且关注度最高的FPGA设计大赛，本次比赛吸引了来自全球超过1600支队伍参赛。大赛共设置三条赛道：边缘计算、数据中心AI和大数据分析。竞赛旨在鼓励参赛者通过自适应计算来解决各种现实世界的问题，从而更好促进创新，赋能应用。其中，边缘计算赛道竞争最为激烈，进入复赛队伍超过200支，覆盖全球知名高校、科研院所、创新企业和最终用户。<img src='https://www.phigent.ai/images/jianjie.png'/><br>基于FPGA的双目视觉雷达解决方案<br>随着智驾等级由L2向L3的提升，对现实世界的感知正从关键信息的驾驶员辅助向事无巨细的强单车智能转变。欧盟第一部L3级别的正式强制法规R157，对于L3级智驾系统做了明确的定义：在ODD允许的范围内，激活的系统应能避免一切可预见、可防止的碰撞。奔驰是第一个通过本认证的车企，其前视主传感器为Veoneer双目视觉模组；日本《道路车辆法》中要求L3车型在感知端要具备冗余性，且需支持安全降级。全球第一款L3级智能驾驶汽车本田传奇通过此法规认证，采用双目视觉模组进行感知和Fallback。由此可见，由于双目视觉雷达能很大的加强前视的3D感知能力，并使得智驾系统有更多的冗余，在L3级高阶智驾系统上正越发重要。<br><br>鉴智机器人双目立体视觉雷达方案可输出稠密的RGB深度信息和精准的3D感知信息，真正意义上做到更鲁棒、更精准、更智能。鉴智机器人基于FPGA的视觉雷达解决方案，具有能效比高，延迟精准可控，可数据驱动的优势，极大提升了现实世界”事无巨细“的感知能力，将助力智驾等级的跃迁。<br>基于深度学习的立体视觉与算力算法协同优化<br>PhiGent Heimdallr双目视觉雷达方案由鉴智机器人的硬件、算法、计算团队共同研发，采用全栈自研开发的模式，包括自研实现双目相机模组、自研立体视觉匹配算法和面向赛灵思MPSoC器件的自适应计算解决方案。<br>在视差算法层面，鉴智机器人采用兼顾效率和精度的视差估计模型，通过结合自适应卷积和高效cost-volume相关层计算，提升计算效率；同时利用残差结构和多尺度特征融合降低训练难度，提升模型精度；在计算层面，鉴智机器人提出面向MPSoC器件的3D立体视觉实现方案。鉴智机器人针对视觉雷达算法，在MPSoC实现层面做了深入的优化，使用定点低位宽数据实现了超高效能的深度图计算。<video src='http://mpvideo.qpic.cn/0bc3pmabwaaa6yalqvc64frfa66ddn5qagya.f10002.mp4?' poster='http://mmbiz.qpic.cn/mmbiz_jpg/8b1mxsjibmSIs4lh2dhGrC67iaXGr7CpDqVKPWUrCa4B4ztfCtQdvHPaHGl5mgKB6OePuSndUNrtnibzA5iaG7v4Aw/0?wx_fmt=jpeg' webkit-playsinline='isiPhoneShowPlaysinline' playsinline='isiPhoneShowPlaysinline' preload='metadata' crossorigin='anonymous' controlslist='nodownload' class=''> 您的浏览器不支持 video 标签 </video><br>作为一款面向高阶智能驾驶系统研发的四维视觉传感器，PhiGent Heimdaller集成了超宽的点云视野、稠密的深度点云、像素级对齐的RGB数据、高帧率的特性，能够更早检测和识别各类动静态道路目标，提升复杂路况中的系统通行能力。鉴智机器人配套的多类感知算法IP和一站式智驾打包方案，可进一步降低客户的应用周期和门槛。<br>基于软硬件协同优化，构建自动驾驶与机器人的3D智能计算<br>目前，鉴智机器人团队在 3D立体视觉、AI ISP、SLAM和多传感器融合计算等方向上已经制定长期系统的规划，面向传感器融合、感知、预测以及规划控制等计算任务提供高效能的计算平台，提供业界领先的FPGA实现方案。鉴智机器人将在成像计算、ISP以及感知算法的FPGA IP研发方向持续投入，将有力支撑智能驾驶方案的落地。<br>基于深度学习的立体视觉技术，算力算法协同优化的理念，鉴智机器人打造的PhiGent Heimdallr产品，将于2022年6月份正式推出。<br><img src='https://mmbiz.qpic.cn/mmbiz_png/8b1mxsjibmSLVJkt1gfWWLW4gXTFrlq27xIK5SpG2ib6WDbLEdJVtLklKR81iaBQrJxSll4IOSM1gfjAOnLepkZZg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1'><img src='https://mmbiz.qpic.cn/mmbiz_png/8b1mxsjibmSLVJkt1gfWWLW4gXTFrlq27su1ibzbpibsBHMxadRre3ibtpKMSBoUPAfbcxjniaJrESzo2U3F8rKBJMA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1' /><img src='https://mmbiz.qpic.cn/mmbiz_png/8b1mxsjibmSLVJkt1gfWWLW4gXTFrlq27VgibyvNN783RjjLm1gCU0ibt43gpQ6xicO0pFrLYYINGNZOicNPvyyEwZQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1' /><img src='https://mmbiz.qpic.cn/mmbiz_png/8b1mxsjibmSLVJkt1gfWWLW4gXTFrlq27UtzuYZtfPbNsicvrZlUeicpSicBL95GS28cjdWbDq4WibLU8E8Jg7ib9vHA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1' />"
     },
     {
       "id": 2,
       "pic": "",
-      "date": "2022/01/17",
-      "title": "鉴智机器人一举斩获「AI中国」机器之心2021年",
-      "desc": "鉴智机器人荣获「AI中国」最具潜力创业公司TOP 10和Auto By"
+      "date": " 2022-01-28 21:37",
+      "title": "鉴行理想，智在远方丨鉴智机器人2021年大事记",
+      "desc": "前路已在脚下，拥抱未来出发。"
     },
     {
       "id": 3,
